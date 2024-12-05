@@ -1,5 +1,5 @@
 # CodePath-Intermediate-Cybersecurity-Capstone-Project
-This repository contains the materials and reports for the capstone project completed as part of the CodePath Intermediate Cybersecurity course. The project focuses on detecting and analyzing unauthorized access attempts to an AWS S3 bucket honeypot using monitoring tools and implementing security strategies based on the findings.
+This repository contains the materials and reports for the capstone group project completed as part of the CodePath Intermediate Cybersecurity course. The project focuses on detecting and analyzing unauthorized access attempts to an AWS S3 bucket honeypot using monitoring tools and implementing security strategies based on the findings.
 
 # Project Overview
 The project demonstrates the following key cybersecurity concepts:
